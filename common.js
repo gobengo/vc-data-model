@@ -42,8 +42,8 @@ var vcwg = {
       status: "WD",
       publisher: "Verifiable Credentials Working Group"
     },
-    "VC-CONTROLLER-DOCUMENT": {
-      title: "Verifiable Credential Controller Document",
+    "VC-ENTITY-DOCUMENT": {
+      title: "Verifiable Credential Entity Documents",
       href: "https://w3c.github.io/vc-controller-document/",
       authors: [
         "Manu Sporny",
